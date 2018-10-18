@@ -1,1 +1,3 @@
-The following contains a few R scripts for Air pollution analysis on the specdata.zip dataset. 
+#Air Quality Analysis
+
+The given R scripts allow a person to analyze the air quality of a given region by review pollutant data.
